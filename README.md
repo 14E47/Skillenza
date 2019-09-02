@@ -1,2 +1,2 @@
 # Skillenza
-Solutions of the challenges in activities.
+Activities solutions
